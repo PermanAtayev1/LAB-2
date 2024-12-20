@@ -143,7 +143,7 @@
 
 ## Дополнительные материалы
 
-- Репозиторий проекта: [ImageInfoReader GitHub]([https://github.com/imageinforeader](https://github.com/PermanAtayev1/LAB-2)
+- Репозиторий проекта: [LAB3 GitHub](https://github.com/PermanAtayev1/LAB-2)
 - Руководство по HTML и JavaScript: [MDN Web Docs](https://developer.mozilla.org/)
 
 ---
