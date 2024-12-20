@@ -107,7 +107,7 @@
 
 ## 7. Обратная связь
 
-Если у вас возникли вопросы или предложения, вы можете связаться с разработчиком по электронной почте: **support@imageinforeader.com**.
+Если у вас возникли вопросы или предложения, вы можете связаться с разработчиком по электронной почте: **imprmnata00@gmail.com**.
 
 ---
 
@@ -143,7 +143,7 @@
 
 ## Дополнительные материалы
 
-- Репозиторий проекта: [ImageInfoReader GitHub](https://github.com/imageinforeader)
+- Репозиторий проекта: [ImageInfoReader GitHub]([https://github.com/imageinforeader](https://github.com/PermanAtayev1/LAB-2)
 - Руководство по HTML и JavaScript: [MDN Web Docs](https://developer.mozilla.org/)
 
 ---
